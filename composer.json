@@ -12,19 +12,20 @@
   ],
   "require": {
     "php": ">=7.0",
-    "yiisoft/yii2": "~2.0.13"
+    "yiisoft/yii2": "~2.0.13",
+    "aydincanaltun/yii2-sorucevap": "dev-develop"
   },
   "require-dev": {
     "phpunit/phpunit": "8.*.*"
   },
   "autoload": {
     "psr-4": {
-      "uguryildiz\\content\\": "src"
+      "aybarsyildiz\\profil\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "uguryildiz\\content\\tests\\": "tests"
+      "aybarsyildiz\\profil\\tests\\": "tests"
     }
   },
   "repositories": [
@@ -34,3 +35,4 @@
     }
   ]
 }
+
