@@ -8,7 +8,7 @@
 
 - Kurulum icin once vagrant instanceiniz uzerinde olusturdugunuz yii2 projesi klasorune girmelisiniz.
 - Terminal uzerinde <br>
-    composer require aybarsyildiz/yii2-profil AydinCanAltun/yii2-sorucevap "dev-main"
+'''    composer require aybarsyildiz/yii2-profil AydinCanAltun/yii2-sorucevap "dev-main" '''
  komutu ile proje icerisine modul kurulur.
  
 - composer ile modul kurulduktan sonra << app\config\main.php >> icerisindeki modules kismina << 'profil' => 'aybarsyildiz\profil\Module', >> ve << 'AydinCanAltun\sorucevap\Module' >> satirlari eklenir.
