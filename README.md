@@ -13,7 +13,7 @@
 
 - composer ile modul kurulduktan sonra _app\config\main.php_ icerisindeki **modules** kismina 
 `'profil' => 'aybarsyildiz\profil\Module',  
-'AydinCanAltun\sorucevap\Module' `
+'sorucevap' => 'AydinCanAltun\sorucevap\Module' `
     satirlari eklenir.
 - Bu satir eklendikten sonra modulumuz calisir hale gelmistir.
 <hr>
