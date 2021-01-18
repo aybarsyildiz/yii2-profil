@@ -13,4 +13,7 @@
 
 ## Modul icerisinden ekran goruntuleri
 
+![Ana Ekran Ekran Goruntuleri](/screenshots/1.png?raw=true)
+
+![Profil Görüntüleme](/screenshots/2.png?raw=true)
 
